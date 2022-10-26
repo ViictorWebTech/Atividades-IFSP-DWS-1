@@ -1,0 +1,26 @@
+.azul {
+  color: white;
+  background-color: rgb(39, 39, 238);
+
+  margin-left: 17vw;
+  margin-bottom: 5vh;
+  width: 60%;
+  border: 0.5vh solid black;
+  padding-right: 10vw;
+  padding-left: 2vw;
+  font-size: 2vw;
+  text-align: justify;
+}
+.vermelho {
+  color: white;
+  background-color: rgb(255, 0, 0);
+
+  margin-right: 15vw;
+  margin-left: 7vw;
+  width: 60%;
+  border: 0.5vh solid black;
+  padding-left: 10vw;
+  padding-right: 2vw;
+  font-size: 2vw;
+  text-align: justify;
+}

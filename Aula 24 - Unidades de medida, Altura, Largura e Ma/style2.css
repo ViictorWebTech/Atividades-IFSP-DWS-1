@@ -1,0 +1,23 @@
+.verde{
+    background-color: rgb(81, 214, 81);
+    margin: 1vw;
+    margin-bottom: 2vw;
+    padding: 3vw;
+}
+.vermelho{
+    background-color: rgb(221, 97, 80);
+    margin: 1vw;
+    padding: 3vw;
+}
+.pequena{
+    width: 30vh;
+}
+.pequena2{
+    width: 35vh;
+}
+.media{
+    width: 40vh;
+}
+.grande{
+    width: 45vh;
+}
