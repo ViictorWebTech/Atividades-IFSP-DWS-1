@@ -1,0 +1,22 @@
+body{
+    border: 1px solid rgb(69, 171, 255);
+    padding: 10px;
+}
+.verde{
+    border: 10px dotted rgb(3, 80, 3);
+    background-color: rgba(113, 247, 113, 0.829);
+}
+.cinza{
+    border: 10px double rgb(114, 114, 114);
+    border-left: none;
+    border-right: none;
+    background-color: rgb(184, 178, 178);
+}
+.vermelho{
+    border: 8px dashed rgb(255, 1, 1);
+    background-color: rgba(236, 100, 100, 0.829);
+}
+.azul{
+    border: 7px solid rgb(0, 60, 255);
+    background-color: rgba(122, 179, 255, 0.829);
+}
