@@ -1,0 +1,33 @@
+img {
+  height: 25vh;
+  margin: 1vw;
+  opacity: 0.2;
+}
+img:hover {
+  opacity: 1;
+}
+div {
+  background-color: rgb(53, 53, 245);
+  border: solid 1vw rgb(2, 2, 83);
+  display: inline-block;
+  color: white;
+  width: 9vw;
+  padding: 3vw;
+  margin: 1vw;
+  font-size: larger;
+}
+.int {
+  opacity: 1;
+}
+.mint {
+  opacity: 0.8;
+}
+.pinte {
+  opacity: 0.6;
+}
+.qnada {
+  opacity: 0.4;
+}
+.nada {
+  opacity: 0.2;
+}

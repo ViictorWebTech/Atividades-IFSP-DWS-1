@@ -1,0 +1,28 @@
+body {
+  margin: 50px;
+}
+div {
+  padding: 10px;
+  margin: 5px 10px 5px 10px
+}
+
+.quad {
+  background-color: green;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
+.retd {
+  background-color: green;
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+}
+.rete{
+    
+    
+  background-color: green;
+  display: inline-block;
+  width: 100px;
+  height: 300px;
+}

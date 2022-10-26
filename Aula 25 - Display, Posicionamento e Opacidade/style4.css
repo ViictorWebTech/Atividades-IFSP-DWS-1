@@ -1,0 +1,17 @@
+div {
+  margin: 3px;
+}
+.bola {
+  display: inline-block;
+  background-color: red;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+}
+.quad {
+  display: inline-block;
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  border-radius: 15%;
+}
