@@ -1,0 +1,27 @@
+.tudo {
+    margin-left: 10VW;
+}
+
+.pouco {
+
+    margin-left: 7vw;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.per,
+.resp {
+    line-height: 30px;
+    border: 2px solid black;
+    padding: 3vw;
+    width: 80vw;
+    text-align: justify;
+
+}
+
+.ide {
+
+    text-indent: 4vw;
+}
