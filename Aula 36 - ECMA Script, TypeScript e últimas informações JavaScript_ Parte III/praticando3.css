@@ -1,0 +1,19 @@
+
+.flexbox{
+display: flex;
+justify-content: space-around;
+}
+.flexbox img{
+    max-width: 100%;
+}
+.flex{
+    display: flex;
+}
+.flex div{
+    width: 6vw;
+    height: 6vw;
+    border: black 0.5vh solid;
+    text-align: center;
+    font-size: 2.3vw;
+    margin: 1vw;
+}
