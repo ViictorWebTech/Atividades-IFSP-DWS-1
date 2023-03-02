@@ -1,0 +1,21 @@
+.pai{
+    width: auto;
+    height: 10vw;
+    display: flex;
+    justify-content: space-around;
+    border: none; 
+    margin-top: 1vw;  
+}
+button{
+    height: 3vw;
+    width: 3vw;
+    visibility: hidden;
+    background-color: white;
+    border: transparent;
+    font-size: xx-large;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 2vw;
+}
